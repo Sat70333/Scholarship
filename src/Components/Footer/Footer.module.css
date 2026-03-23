@@ -1,0 +1,70 @@
+
+.mainFooter{
+    width: 100%;
+    height: 286px;
+    background-color: #3257A8;
+    padding: 42px 73px;
+    color: #ffffff;
+    display: flex;
+}
+
+.mainFooter ul{
+    display: inline;
+}
+
+.mainFooter ul h3{
+    margin-bottom: 10px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.mainFooter ul li{
+    display: block;
+    font-size: 23px;
+    line-height: 40px;
+}
+
+.qrbox{
+    width: 375px;
+    height: 237px;
+    background-color: #ffffff;
+    padding-left: 21px;
+    padding-top: 26px;
+}
+
+.box p{
+    /* background-color: yellow; */
+    color: black;
+    font-size: 16px;
+    margin-bottom: 13px;
+}
+
+.box .qrImg{
+    width: 135px;
+    height: 136px;
+    margin-bottom: 10px;
+}
+
+.playstoreImg
+{
+    margin-left: 41px;
+    position: relative;
+    top: -50px;
+}
+
+.underline{
+    margin-top: 31px;
+    margin-right: 40px;
+    height: 190px;
+    width: 1px;
+    background-color: white;
+}
+
+.copyrightFooter{
+    background-color: #2D4D98;
+    width: 100%;
+    height: 79px;color: #ffffff;
+    font-size: 34px;
+    padding-top: 16px;
+    text-align: center;
+}

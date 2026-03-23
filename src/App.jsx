@@ -10,7 +10,6 @@ function App() {
       <Hero />
       <Footer />
     </div>
-  );
-}
-
+    )
+  }
 export default App;
