@@ -1,11 +1,12 @@
 import logo from "../../assets/logo.png";
-import styles from "./Header.module.css"
+import styles from "./Header.module.css";
 
 function Header() {
   return (
     <>
-      <div class={styles.headerDiv}>
+      <div className={styles.headerDiv}>
         <img src={logo} alt="logo" />
+
         <nav>
           <ul>
             <li><a href="#">Home</a></li>

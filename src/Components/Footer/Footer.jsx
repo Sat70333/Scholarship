@@ -8,20 +8,20 @@ function Footer() {
       <div className={styles.mainFooter}>
         <ul>
           <h3>Quick Links</h3>
-          <li>&lt; Home</li>
-          <li>&lt; Scholarships</li>
-          <li>&lt; Eligibility</li>
-          <li>&lt; Contact</li>
+          <li>&gt; Home</li>
+          <li>&gt; Scholarships</li>
+          <li>&gt; Eligibility</li>
+          <li>&gt; Contact</li>
         </ul>
 
         <div className={styles.underline}></div>
         
         <ul>
           <h3>Student Resources</h3>
-          <li>&lt; Application Tips</li>
-          <li>&lt; FAQs</li>
-          <li>&lt; Schemes</li>
-          <li>&lt; Support</li>
+          <li>&gt; Application Tips</li>
+          <li>&gt; FAQs</li>
+          <li>&gt; Schemes</li>
+          <li>&gt; Support</li>
         </ul>
 
         <div className={styles.underline}></div>
@@ -30,7 +30,7 @@ function Footer() {
           <h3>Contact Us</h3>
           <li><i className="fa-solid fa-phone-volume"></i> +91 7033390964</li>
           <li><i className="fa-solid fa-envelope"></i> satyamkumarmsk2@gmail.com</li>
-          <li><i className="fa-solid fa-location-dot"></i> CSE Building, Bhagalpur College <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Engineering , 813210</li>
+          <li><i className="fa-solid fa-location-dot"></i> CSE Building, Bhagalpur College <br />&nbsp;&nbsp;&nbsp;&nbsp;of Engineering , 813210</li>
         </ul>
 
         <div className={styles.qrbox}> 
